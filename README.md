@@ -1,3 +1,8 @@
+# Location-search app
+This application is similar to `Google Maps` and it allows to search for a location that will be show on the map. It makes use of `React` and `Typescript`.
+
+![alt text](https://github.com/RosarioB/location-search/blob/main/github_images/location-search.gif?raw=true)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,3 +53,6 @@ export default tseslint.config({
   },
 })
 ```
+
+# Acknowledgments
+This code is adapted from the course [Modern React with Redux](https://www.udemy.com/course/react-redux) by Stephen Grider, with some modifications.
